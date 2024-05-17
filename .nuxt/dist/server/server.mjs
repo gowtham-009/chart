@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/gowth/Downloads/themeforest-Va4KCQY1-tairo-multipurpose-nuxt-tailwind-css-dashboard-system/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
